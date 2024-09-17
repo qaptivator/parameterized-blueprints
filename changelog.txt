@@ -3,6 +3,7 @@ Version: 1.0.5
 Date: 17.9.2024
   Bugfixes:
     - Fixed a crash when pressing shortcut hotkey
+    - Fixed a crash when launching the game
     - Replaced placeholders with icons from the blog post
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.4
